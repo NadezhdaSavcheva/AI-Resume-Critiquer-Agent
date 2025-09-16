@@ -94,13 +94,13 @@ OPENAI_API_KEY=sk-your-key-here
 
 ## Troubleshooting
 
-- “OPENAI_API_KEY is missing”
+- “OPENAI_API_KEY is missing”: \
   Ensure .env exists and contains OPENAI_API_KEY=....
 
-- “Could not extract text”
+- “Could not extract text”: \
   Your PDF may be image-only (scanned). Export a text-based PDF or provide a TXT file.
 
-- Network / rate limit errors
+- Network / rate limit errors: \
   Try again later or check your OpenAI account usage and limits.
 
 ---
