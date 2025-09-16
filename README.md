@@ -108,6 +108,3 @@ OPENAI_API_KEY=sk-your-key-here
 ## License
 
 This project is licensed under the MIT License.
-```text
-::contentReference[oaicite:0]{index=0}
-```
