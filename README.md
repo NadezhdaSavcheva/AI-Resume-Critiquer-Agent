@@ -84,7 +84,9 @@ Open the local URL that Streamlit prints (usually http://localhost:8501).
 ## Configuration
 
 - Environment variables (in .env):
-`OPENAI_API_KEY=sk-your-key-here`
+```text
+OPENAI_API_KEY=sk-your-key-here
+```
 
 - Dependencies are declared in pyproject.toml and installed by uv sync.
 
@@ -106,4 +108,6 @@ Try again later or check your OpenAI account usage and limits.
 ## License
 
 This project is licensed under the MIT License.
-`::contentReference[oaicite:0]{index=0}`
+```text
+::contentReference[oaicite:0]{index=0}
+```
