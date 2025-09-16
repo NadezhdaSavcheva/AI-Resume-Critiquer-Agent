@@ -28,6 +28,7 @@ Upload your resume (PDF or TXT), optionally add a target role and/or a job descr
 
 ## Project Structure
 
+```text
 .
 ├─ app.py
 ├─ pyproject.toml
@@ -36,6 +37,7 @@ Upload your resume (PDF or TXT), optionally add a target role and/or a job descr
 ├─ LICENSE
 ├─ .gitignore
 └─ screenshot.png
+```
 
 ---
 
